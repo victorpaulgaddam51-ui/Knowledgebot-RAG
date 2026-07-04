@@ -1,0 +1,19 @@
+# Python
+venv/
+venv311/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Local files
+test-sample.pdf
+.DS_Store
+
+# Prevent nested duplicate project copy from being committed
+knowledgebot-src/
